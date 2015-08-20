@@ -6,7 +6,7 @@
 
 Contratto tra gestore dei dati e utente del servizio 
 
-Contract between user with/vs the service that handles the datas
+Contract between user with/vs the service that handles (in this case, writes) the user data into the blockchain
 
 ---
 
