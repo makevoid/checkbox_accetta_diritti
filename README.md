@@ -18,7 +18,7 @@ Contract between user with/vs the service that handles (in this case, writes) th
 
 Desidero pubblicare in modo permanente le seguenti informazioni: nome, telefono, x, y, z, ... 
 
-**By checking this box, I hereby accept that my infos (like name, telephone, x, y, z) get stored permanently in bitcoin's blockchain**
+#### **By checking this box I hereby consent that the information I selected will be stored permanently in bitcoin's blockchain. The operation is final, there will be no possibility to delete them in the future.**
 
 
 ( the service will pay for the transaction / message / storage costs ) 
