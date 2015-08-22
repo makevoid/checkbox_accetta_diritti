@@ -1,7 +1,7 @@
 ### Checkbox 
 #### Privacy Policy
 
-# [ ] Checkbox 
+## [ ] Checkbox 
 
 Contract between the user and the service that handles (in this case, writes) the user data (and in this case, writes it into the blockchain)
 
@@ -28,6 +28,8 @@ example data
 use your private key to sign a bitcoin transaction - in that transaction(s) all the data you selected/inserted will get get saved
 
 ---
+    
+    [ ] I hereby consent that the information I selected will be stored permanently in bitcoin's blockchain. 
 
     button ["accept"]
 
