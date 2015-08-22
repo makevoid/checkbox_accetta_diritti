@@ -16,11 +16,12 @@ Contract between user with/vs the service that handles (in this case, writes) th
 
 ---
 
-Desidero pubblicare in modo permanente le seguenti informazioni: nome x y z ... 
+Desidero pubblicare in modo permanente le seguenti informazioni: nome, telefono, x, y, z, ... 
 
-I know that by accepting to the terms my infos like name, x, y, z (other infos) get stored permanently in bitcoin's blockchain
+**By checking this box, I hereby accept that my infos (like name, telephone, x, y, z) get stored permanently in bitcoin's blockchain**
 
-Per account, "here you have some money", I will pay for the cost of the service for an x amount of time
+
+( the service will pay for the transaction / message / storage costs ) 
 
 
 ---
@@ -32,11 +33,7 @@ Per account, "here you have some money", I will pay for the cost of the service 
 ---
 
 utilizza la tua chiave per firmare una transazione dove vengono salvati i seguenti dati
-use your private key to sign a bitcoin transaction where all data get saved
-
----
-
-...
+use your private key to sign a bitcoin transaction - in that transaction(s) all the data you selected/inserted will get get saved
 
 ---
 
